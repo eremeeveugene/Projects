@@ -1,6 +1,6 @@
-# A collapsible section with markdown
+# Church Presenation software
 <details>
-  <summary>Church Presenation software</summary>
+  <summary>Features</summary>
   
   ## Heading
   1. A numbered
