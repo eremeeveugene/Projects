@@ -38,12 +38,46 @@
 <details>
   <summary>Details</summary>
  
-  
 ### Description
 ##### Networking application allows a user to play favorite games without fear of losing Internet connection due to a (D)DoS attack and for added security, using a VPN will mask the physical location of a user
   
 ### Technologies
 ##### C#, WPF, Prism, MVVM, Figma
+  
+  #### Login Window
+  ![image](https://user-images.githubusercontent.com/59287893/154987605-b3442eca-0307-415d-9162-1e8985098125.png)
+  
+  #### Main Window and Packets Filters
+  ![image](https://user-images.githubusercontent.com/59287893/154986911-9273326e-c7ef-4d91-88f9-6d9083989b2a.png)
+
+  #### General Settings
+  ![image](https://user-images.githubusercontent.com/59287893/154987249-624fe775-447d-479c-8795-c948a20ad2b4.png)
+
+  #### Interface Settings
+  ![image](https://user-images.githubusercontent.com/59287893/154987280-de6521d2-0d5f-4493-a365-4f6baa9c6ae3.png)
+
+ 
+  #### Game Filters
+  ![image](https://user-images.githubusercontent.com/59287893/154987317-8b0142bf-fc0f-4d63-b776-181361393f73.png)
+
+ 
+  #### Packet Filtering
+  ![image](https://user-images.githubusercontent.com/59287893/154987388-f1ecbdfb-9817-4f9a-9824-24d786c983cd.png)
+
+
+  #### Tab Filtering
+  ![image](https://user-images.githubusercontent.com/59287893/154987436-66b9904d-75de-4178-ac27-7372b6ec0c80.png)
+
+
+  #### Saved Labels
+  ![image](https://user-images.githubusercontent.com/59287893/154987468-8f11fa6c-0925-4c6a-afc0-5749c109a0be.png)
+
+
+  #### Keyboard Shortcuts
+  ![image](https://user-images.githubusercontent.com/59287893/154987504-8c58bd79-543b-4003-84ea-bc937de61296.png)
+
+  #### News
+  ![image](https://user-images.githubusercontent.com/59287893/154987567-ce9d4026-b16b-4af4-984c-eda0e80e47b1.png)
 
 </details>
 
