@@ -1,4 +1,4 @@
-# Crossplatform Presenation software
+# Presentense
 
 ### Description
 ##### Presentation software allows a user to create high-quality presentations and sync them across desktop and mobile devices.
@@ -11,7 +11,7 @@
   
 </details>
 
-# Media software
+# mmhmm
 
 ### Description
 ##### Media software allows a user to engage with the audience by staying on screen with whatever is being shown. Record talks in chunks with unlimited takes. Make changes to recordings by moving slides around. Share a link to a video in seconds. Give total control to the audience over when and how to watch.
@@ -33,7 +33,7 @@
   
 </details>
 
-# Networking Application
+# OctoSniff
 
 ### Description
 ##### Networking application allows a user to play favorite games without fear of losing Internet connection due to a (D)DoS attack and for added security, using a VPN will mask the physical location of a user
@@ -46,7 +46,7 @@
   
 </details>
 
-# VPN Application
+# OctoVPN
 
 ### Description
 ##### This is the first tool ever created to filter out packets and encrypt the usernames in them.
@@ -57,9 +57,12 @@
 <details>
   <summary>Details</summary>
   
+  Login Window
+  ![image](https://user-images.githubusercontent.com/59287893/154980164-f4c32ebb-975c-48dd-a48d-09ab66769743.png)
+
 </details>
 
-# Church Presenation software
+# Mediashout7
 
 ### Description
 ##### This is a powerful presentation software with tools designed for churches, allowing the creation of song lyrics, liturgies, bible verses, and announcement slides in minutes.
