@@ -57,8 +57,20 @@
 <details>
   <summary>Details</summary>
   
-  Login Window
+  #### Login Window
   ![image](https://user-images.githubusercontent.com/59287893/154980164-f4c32ebb-975c-48dd-a48d-09ab66769743.png)
+
+  #### Main Window
+  ![image](https://user-images.githubusercontent.com/59287893/154981771-628abbdf-39d3-4f6e-832f-0a1faa1e3363.png)
+
+  #### General Settings
+  ![image](https://user-images.githubusercontent.com/59287893/154981960-c1341c96-5497-490c-926c-039d19b99403.png)
+
+  #### Shortcuts
+  ![image](https://user-images.githubusercontent.com/59287893/154982000-63c6620d-4297-493e-9fca-847d94549202.png)
+
+  #### News
+  ![image](https://user-images.githubusercontent.com/59287893/154982215-01a1bbc4-2a39-46f6-95e4-0c4c3f884a74.png)
 
 </details>
 
